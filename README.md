@@ -28,3 +28,10 @@ Thanks for stopping by, and feel free to check out my projects and leave a messa
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelFontSize=50&logoFontSize=60)
 
+![Microsoft Badge](https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=white)
+
+
+### My Stats 👋
+
+![nathanshuai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanshuai&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanshuai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
