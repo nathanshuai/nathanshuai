@@ -1,3 +1,6 @@
+![Banner Image](https://github.com/nathanshuai/nathanshuai/blob/main/assets/banerimage)
+
+
 ### Hi there 👋
 
 🌱 I’m currently learning software developer based in Winnipeg, Canada.
