@@ -22,14 +22,22 @@ Thanks for stopping by, and feel free to check out my projects and leave a messa
 
 ### My Skills 👋
 
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelFontSize=50&logoFontSize=60)
-
-![Microsoft Badge](https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=white)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelFontSize=50&logoFontSize=60">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ### My Stats 👋
 
