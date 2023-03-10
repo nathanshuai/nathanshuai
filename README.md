@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/nathanshuai/nathanshuai/blob/main/assets/imageone.jpg)
+![Banner Image](https://github.com/nathanshuai/nathanshuai/blob/main/assets/Hello_Handsome!.png)
 
 
 ### Hi there 👋Welcome to My GitHub Profile!
