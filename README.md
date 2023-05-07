@@ -36,6 +36,9 @@ Thanks for stopping by, and feel free to check out my projects and leave a messa
     <td>
       <img src="https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=white">
     </td>
+     <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=microsoft&logoColor=white">
+    </td>
   </tr>
 </table>
 
