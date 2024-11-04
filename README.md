@@ -15,9 +15,6 @@
     <td>
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelFontSize=50&logoFontSize=60">
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=white">
-    </td>
      <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </td>
